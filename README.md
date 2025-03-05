@@ -5,7 +5,7 @@
 
 - 🔭 I’m a java developer and familiar with Spring framework and build web apps. **🤝 I’m in my way to become a DevOps engineer.**
 
-- 🌱 I’m currently learning **Cloud computing**
+- 🌱 I’m currently learning ** AWS Cloud computing**
 
 - 📫 How to reach me **hamdallah.nancy@gmail.com**
 
