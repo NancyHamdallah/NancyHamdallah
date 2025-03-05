@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hamdallah.nancy@gmail.com**
 
-- ⚡ Fun fact **I'm not funny at all and I take life seriously !**
+- ⚡ Fun fact **I took life seriously in a funny way :) !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
